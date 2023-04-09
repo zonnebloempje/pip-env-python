@@ -10,5 +10,18 @@ python main.py
 ```
 
 
+# Python Project 2: World Population App 
+
+```sh
+git clone
+cd app
+source env/bin/activate
+source env/scripts/activate (on Windows)
+pip install -r requirements.txt
+python main.py
+```
+
+## Screenshots
+[bar_chart]: app/images/Chile.png
 
 
