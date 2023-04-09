@@ -13,7 +13,7 @@ def generate_pie_chart(labels, values):
   fig, ax = plt.subplots()
   ax.pie(values, labels = labels)
   ax.axis('equal')
-  plt.title('World Population Percentage in Latin America')
+  plt.title(f'World Population Percentage in Europe')
   plt.savefig('pie_chart.png')
   plt.close()
 
