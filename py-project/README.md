@@ -22,6 +22,6 @@ python main.py
 ```
 
 ## Screenshots
-[bar_chart]: app/images/Chile.png
+![bar_chart_example](https://github.com/zonnebloempje/pip-env-python/blob/main/py-project/app/images/Chile.png)
 
 
