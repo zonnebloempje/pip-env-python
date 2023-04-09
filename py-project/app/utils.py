@@ -1,5 +1,3 @@
-#This is my own module
-
 def get_population(country_dict):
   population_dict = {
     '1970': int(country_dict['1970 Population']),

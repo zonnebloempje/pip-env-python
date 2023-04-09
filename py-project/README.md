@@ -11,10 +11,11 @@ python main.py
 
 
 # Python Project 2: World Population App 
-
+## How to run the app:
 ```sh
 git clone
 cd app
+python -m venv env
 source env/bin/activate
 source env/scripts/activate (on Windows)
 pip install -r requirements.txt

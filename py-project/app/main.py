@@ -1,9 +1,6 @@
 import utils
-#using the utils module
 import read_csv
 import charts
-
-
 
 #### World Population Percentage
 
