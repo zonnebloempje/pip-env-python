@@ -3,4 +3,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    volumes:
+      - .:/app # defines a volume that mounts the current directory (.) to /app in the container
     
